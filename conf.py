@@ -30,16 +30,6 @@ description = "只坚持一种正义。我的正义。"
 key_words = ['Maverick', 'chinwer', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
-    {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "散人陈",
-        "url": "https://www.imalan.cn",
-        "brief": "散人陈的主页。"
-    }
 ]
 nav = [
     {
@@ -61,19 +51,9 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
-    {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/kalong0126",
         "icon": "gi gi-github"
-    },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
     }
 ]
 
