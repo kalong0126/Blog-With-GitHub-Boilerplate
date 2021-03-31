@@ -18,7 +18,7 @@ enable_jsdelivr = {
     "enabled": True,
     "repo": "kalong0126/blog-site@gh-pages"
 }
-
+category_by_folder = "True"
 # 站点设置
 site_name = "陈伟的个人博客"
 site_logo = "${static_prefix}logo.png"
