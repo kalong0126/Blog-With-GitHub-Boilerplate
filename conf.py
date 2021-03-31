@@ -37,7 +37,7 @@ external_links = [
     {
         "name": "散人陈",
         "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "brief": "散人陈的主页。"
     }
 ]
 nav = [
