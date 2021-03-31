@@ -2,11 +2,11 @@
 layout: post
 title: 我的第一篇文章
 slug: my-first-awesome-post
-date: 2019-12-17 20:34
+date: 2021-03-31 20:34
 status: publish
-author: 熊猫小A
+author: chinwer
 categories: 
-  - 默认分类
+  - 测试分类
 tags: 
   - 博客
   - Maverick
